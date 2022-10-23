@@ -1,0 +1,3 @@
+Key,Translation,Version,Comment (context for translators)
+ev.construct.fail.title,"Construction Failure",,
+ev.construct.fail.desc,"There was a critical failure while building <b>{0}</b>. The area may need immediate attention.",,"{0} will be the device name"

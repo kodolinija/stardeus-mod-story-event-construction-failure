@@ -1,0 +1,9 @@
+{
+    "Id" : "StoryEventConstructionDisaster",
+    "SteamWorkshop" : false,
+    "Name" : "Story Event: Construction Disaster",
+    "Description" : "Adds a new disaster story event about construction failure",
+    "ModVersion" : "1.0.0",
+    "GameVersion" : "0.6.110",
+    "Dependencies" : [ "Core" ]
+}

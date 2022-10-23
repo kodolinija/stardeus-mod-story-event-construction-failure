@@ -1,0 +1,10 @@
+{
+    "InterestFactor" : -0.1,
+    "Effect" : -0.05,
+    "ProbabilityBias" : -0.3,
+    "Min" : {
+        "Check" : true,
+        "Weeks" : 4,
+        "Workers" : 12
+    }
+}
